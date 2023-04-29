@@ -9,7 +9,7 @@ Each exercise in each round can be considered as each project since the workload
 06. Javadocson (round10) -> Javadoc, Comments
 07. Unit testing (round11) -> JUnit, Unit testing
 08. JavaFX Wordle (round12) -> JavaFX, FXML
-09. Sisu unraveled (round project) -> JavaFX, FXML, JSON, VersionControl, Javadoc, Lambda functions, Streams (Undone)
+09. Sisu unraveled (round project) -> JavaFX, FXML, JSON, VersionControl, Javadoc, Lambda functions, Streams: https://github.com/nntk072/SISU_GUI.git
 
 Basic contents of each directory:
 
